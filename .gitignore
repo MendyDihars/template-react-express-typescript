@@ -1,4 +1,9 @@
-node_modules/
-
-yarn.lock
+# Folders
+web/node_modules
+api/node_modules
+# Files
+web/yarn.lock
+web/.env
+api/yarn.lock
+api/.env
 public/main.js
